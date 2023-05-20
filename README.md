@@ -1,2 +1,2 @@
 # szxzip.github.io
-时代，前进！
+szxzip - 时代，前进！
