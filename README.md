@@ -1,2 +1,3 @@
-# szxzip.github.io
-时代，前进！
+# GitHub Page
+
+Welcome to my GitHub page.
