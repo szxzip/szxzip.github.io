@@ -31,14 +31,14 @@ copyright:
   # Shown at the bottom of the post
   license:
     template: โพสต์นี้อยู่ภายใต้การอนุญาต :LICENSE_NAME โดยผู้เขียน
-    name: CC BY 4.0
-    link: https://creativecommons.org/licenses/by/4.0/
+    name: CC BY-SA 4.0
+    link: https://creativecommons.org/licenses/by-sa/4.0/
 
   # Displayed in the footer
   brief: สงวนลิขสิทธิ์เป็นบางส่วน
   verbose: >-
     เว้นแต่ว่าจะระบุเป็นอย่างอื่น โพสต์บนเว็บไซต์นี้อยู่ภายใต้
-    สัญญาอนุญาตครีเอทีฟคอมมอนส์แบบ 4.0 นานาชาติ (CC BY 4.0) โดยผู้เขียน
+    สัญญาอนุญาตครีเอทีฟคอมมอนส์แบบแสดงที่มา-อนุญาตแบบเดียวกัน 4.0 นานาชาติ (CC BY-SA 4.0) โดยผู้เขียน
 
 meta: กำลังใช้ธีมของ :PLATFORM ชื่อ :THEME
 

@@ -31,13 +31,13 @@ copyright:
   # Shown at the bottom of the post
   license:
     template: Tämä julkaisu on lisenssoitu :LICENSE_NAME julkaisijan toimesta.
-    name: CC BY 4.0
-    link: https://creativecommons.org/licenses/by/4.0/
+    name: CC BY-SA 4.0
+    link: https://creativecommons.org/licenses/by-sa/4.0/
 
   # Displayed in the footer
   brief: Jotkut oikeudet pidätetään.
   verbose: >-
-    Paitsi jos erikseen mainitaan on kaikki sisältö Creative Commons Attribution 4.0 International (CC BY 4.0) Lisensoitu kirjoittajan toimesta.
+    Paitsi jos erikseen mainitaan on kaikki sisältö Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) Lisensoitu kirjoittajan toimesta.
 
 meta: Käytetään :PLATFORM iä Teema :THEME
 

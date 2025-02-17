@@ -31,13 +31,13 @@ copyright:
   # Shown at the bottom of the post
   license:
     template: 本文章以 :LICENSE_NAME 授權
-    name: CC BY 4.0
-    link: https://creativecommons.org/licenses/by/4.0/
+    name: CC BY-SA 4.0
+    link: https://creativecommons.org/licenses/by-sa/4.0/
 
   # Displayed in the footer
   brief: 保留部份權利。
   verbose: >-
-    除非另有說明，否則本網誌的文章均由作者按照姓名標示 4.0 國際 (CC BY 4.0) 授權條款進行授權。
+    除非另有說明，否則本網誌的文章均由作者按照姓名標示─相同方式分享 4.0 國際 (CC BY-SA 4.0) 授權條款進行授權。
 
 meta: 本網站使用 :PLATFORM 產生，採用 :THEME 主題
 

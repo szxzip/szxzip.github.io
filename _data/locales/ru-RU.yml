@@ -31,13 +31,13 @@ copyright:
   # Shown at the bottom of the post
   license:
     template: Авторский пост защищен лицензией :LICENSE_NAME.
-    name: CC BY 4.0
-    link: https://creativecommons.org/licenses/by/4.0/
+    name: CC BY-SA 4.0
+    link: https://creativecommons.org/licenses/by-sa/4.0/
 
   # Displayed in the footer
   brief: Некоторые права защищены.
   verbose: >-
-    Если не указано иное, авторские посты на этом сайте защищены лицензией Creative Commons Attribution 4.0 International (CC BY 4.0).
+    Если не указано иное, авторские посты на этом сайте защищены лицензией Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 
 meta: Использует тему :THEME для :PLATFORM
 

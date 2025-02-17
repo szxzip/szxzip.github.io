@@ -31,14 +31,14 @@ copyright:
   # Shown at the bottom of the post
   license:
     template: Alle posts zijn onder :LICENSE_NAME gepubliceerd door de auteur.
-    name: CC BY 4.0
-    link: https://creativecommons.org/licenses/by/4.0/
+    name: CC BY-SA 4.0
+    link: https://creativecommons.org/licenses/by-sa/4.0/
 
   # Displayed in the footer
   brief: Sommige rechten voorbehouden.
   verbose: >-
     Tenzij anders vermeld, alle posts zijn onder de
-    Creative Commons Attribution 4.0 International (CC BY 4.0) gepubliceerd door de auteur.
+    Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) gepubliceerd door de auteur.
 
 meta: Gebruikt :THEME
 
