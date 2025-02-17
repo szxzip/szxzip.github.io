@@ -26,16 +26,16 @@ description: >- # used by seo meta and the atom feed
 url: "https://szxzip.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: szxzip # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: szxzip # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: szxzip
-  email: szxzip@gmail.com # change to your email address
+  email: szxzip@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://x.com/szxzip # change to your Twitter homepage
