@@ -1,0 +1,74 @@
+/*! Source Sans 3 */
+  @font-face
+  {
+    font-family:'Source Sans 3';
+    font-style:normal;
+    font-weight:400;
+    font-display:swap;
+    src:url(SourceSans3/SourceSans3-Regular.otf) format('opentype')
+  }
+
+  @font-face
+  {
+    font-family:'Source Sans 3';
+    font-style:normal;
+    font-weight:600;
+    font-display:swap;
+    src:url(SourceSans3/SourceSans3-Medium.otf) format('opentype')
+  }
+
+  @font-face
+  {
+    font-family:'Source Sans 3';
+    font-style:normal;
+    font-weight:700;
+    font-display:swap;
+    src:url(SourceSans3/SourceSans3-Bold.otf) format('opentype')
+  }
+
+  @font-face
+  {
+    font-family:'Source Sans 3';
+    font-style:normal;
+    font-weight:900;
+    font-display:swap;
+    src:url(SourceSans3/SourceSans3-Heavy.otf) format('opentype')
+  }
+
+/*! Source Han Sans CN */
+  @font-face
+  {
+    font-family:'Source Han Sans CN';
+    font-style:normal;
+    font-weight:400;
+    font-display:swap;
+    src:url(SourceHanSansCN/SourceHanSansCN-Regular.otf) format('opentype')
+    unicode-range: U+0080-10FFFF;
+  }
+
+  @font-face
+  {
+    font-family:'Source Han Sans CN';
+    font-style:normal;
+    font-weight:600;
+    font-display:swap;
+    src:url(SourceHanSansCN/SourceHanSansCN-Medium.otf) format('opentype')
+  }
+
+  @font-face
+  {
+    font-family:'Source Han Sans CN';
+    font-style:normal;
+    font-weight:700;
+    font-display:swap;
+    src:url(SourceHanSansCN/SourceHanSansCN-Bold.otf) format('opentype')
+  }
+
+  @font-face
+  {
+    font-family:'Source Han Sans CN';
+    font-style:normal;
+    font-weight:900;
+    font-display:swap;
+    src:url(SourceHanSansCN/SourceHanSansCN-Heavy.otf) format('opentype')
+  }
